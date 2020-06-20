@@ -4,8 +4,8 @@ date: 2020-06-14T22:32:07-04:00
 lastmod: 2020-06-14T22:32:07-04:00
 # author: Author Name
 cover: /img/leanin.jpg
-categories: ["读书笔记"]
-tags: ["reading"]
+categories: ["reading"]
+tags: ["reading","women"]
 # showcase: true
 # draft: true
 ---
