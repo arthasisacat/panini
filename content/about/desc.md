@@ -7,4 +7,4 @@ draft: true
 
 Hello World!
 
-This is Zoe, software engineering working on robots, and know nothing about building a website ;)
+This is Zoe, software engineer working with robots, and know nothing about building a website ;)

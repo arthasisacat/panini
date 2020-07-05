@@ -1,5 +1,5 @@
 ---
-title: The_making_of_a_manager
+title: the making of a manager 读书笔记
 date: 2020-06-14T23:04:19-04:00
 lastmod: 2020-06-14T23:04:19-04:00
 # author: Author Name
@@ -87,11 +87,12 @@ Have agenda.
 
 A great decision-making meeting does the following: Gets a decision made (obviously) Includes the people most directly affected by the decision as well as a clearly designated decision-maker Presents all credible options objectively and with relevant background information, and includes the team’s recommendation if there is one Gives equal airtime to dissenting opinions and makes people feel that they were heard
 
-In the last few minutes of a meeting, get into the habit of asking, “So before we break, let’s make sure we agree on next steps . . .” After the meeting, send out a recap to the attendees with a summary of the discussion, a list of specific action items and who is responsible for each, and when the next check-in will be.
+In the last few minutes of a meeting, get into the habit of asking, “So before we break, let’s make sure we agree on next steps . . .” 
 
-send out summary after meeting.
+After the meeting, send out a recap to the attendees with a summary of the discussion, a list of specific action items and who is responsible for each, and when the next check-in will be.
 
-If your meetings tend to be dominated by a few individuals, try mediating the amount of airtime everyone gets. Be on the lookout for interruptions. If someone starts making a point but another loud voice cuts her off, provide cover by saying, “Hang on, Ann wasn’t finished.” As an added bonus, I’ve found that doing this also bolsters your own credibility. Similarly, if you see someone seeking to get a word in, you can help create an opening: “John looks like he wants to say something.” My colleague did this for me once in an executive review with twenty other people, and to this day I remember the rush of gratitude I felt.
+If your meetings tend to be dominated by a few individuals, try mediating the amount of airtime everyone gets. Be on the lookout for interruptions. If someone starts making a point but another loud voice cuts her off, provide cover by saying, “Hang on, Ann wasn’t finished.” As an added bonus, I’ve found that doing this also bolsters your own credibility. 
+Similarly, if you see someone seeking to get a word in, you can help create an opening: “John looks like he wants to say something.” My colleague did this for me once in an executive review with twenty other people, and to this day I remember the rush of gratitude I felt.
 For the overtalkers, be clear but polite in letting them know that it’s time for someone else to get a turn: “Ian, it’s clear you have more you want to say, but let’s first make sure other people get a chance to weigh in” or “Laura, I’m hearing that you feel very strongly we should do X—before we wrap, does anyone have another opinion? I want to make sure all points of view are heard.”
 
 ### Setting goals/milestones for the team
