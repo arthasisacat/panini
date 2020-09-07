@@ -2,7 +2,7 @@
 title: 我爱的小众 mac app
 date: 2020-09-06T23:57:31-04:00
 lastmod: 2020-09-06T23:57:31-04:00
-cover: /img/book4.jpg
+cover: /img/book3.jpg
 categories: ["tool"]
 tags: ["mac","osx", "tool"]
 ---

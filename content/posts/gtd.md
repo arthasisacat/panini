@@ -3,7 +3,7 @@ title: Gtd 心法 (转载)
 date: 2020-07-26T23:44:59-04:00
 lastmod: 2020-07-26T23:44:59-04:00
 author: 同人于野
-cover: /img/book3.jpg
+# cover: /img/book3.jpg
 categories: ["reading"]
 tags: ["GTD"]
 # showcase: true
