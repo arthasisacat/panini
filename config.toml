@@ -34,7 +34,7 @@ hasCJKLanguage = true
   # email = ""
   # twitter = ""
   # facebook = ""
-  # instagram = ""
+  instagram = "arthas_et_gingin"
   # linkedin = ""
   # github = ""
   # stackoverflow = ""
@@ -44,7 +44,13 @@ hasCJKLanguage = true
 
   favicon = "/me/Doughnutsa.ico"
 
+  enableSearch = true
+  rss = true
+
   # dark mode
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404 = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
