@@ -1,6 +1,6 @@
 ---
 title: How Women Rise 读书笔记
-cover: /img/cover1.jpg
+cover: /img/book1.jpg
 categories:
   - reading
 tags:
