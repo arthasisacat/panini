@@ -36,6 +36,13 @@ move and resize window using keyboard shortcuts [link](https://www.spectacleapp.
 
 倒计时提醒器 [link](https://matthewpalmer.net/horo-free-timer-mac/)
 
+### itsycal
+
+Itsycal is a tiny menu bar calendar.
+
+[https://www.mowglii.com/itsycal/](https://www.mowglii.com/itsycal/)
+
+
 ## coding
 
 ### diffmerge
