@@ -24,7 +24,10 @@ os utilities, cleanup mac [link](https://www.titanium-software.fr/en/onyx.html)
 move and resize window using keyboard shortcuts [link](https://www.spectacleapp.com/) 
 	
 ### app cleaner
-彻底删除 app [link](https://freemacsoft.net/appcleaner/) 
+彻底删除 app [link](https://freemacsoft.net/appcleaner/)
+
+### Vertical Bar
+add vertical bar in the dock to separate apps. [link](https://github.com/afallon02/VerticalBar)
 
 ## GTD (get things done)
 
