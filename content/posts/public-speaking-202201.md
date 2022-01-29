@@ -1,17 +1,15 @@
 ---
 title: Public Speaking 202201
 date: 2022-01-28T19:31:33-05:00
-lastmod: 2022-01-28T19:31:33-05:00
-author: Author Name
-# authorlink: https://author.site
+# lastmod: 2022-01-28T19:31:33-05:00
+# author: Author Name
 cover: /img/cover.jpg
 categories:
-  - category1
+  - reading
 tags:
-  - tag1
-  - tag2
+  - work
 # showcase: true
-draft: true
+draft: false
 ---
 
 do's & don'ts

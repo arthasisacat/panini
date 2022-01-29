@@ -57,6 +57,19 @@ create new post
 ```
 hugo new posts/my-first-post.md
 ```
+### part v troubleshooting
+when deploy, I see this error
+```
+firebase deploy
+
+Error: Failed to get Firebase project panini-everything. Please make sure the project exists and your account has permission to access it.
+```
+
+Solution:
+```
+firebase logout
+firebase login
+```
 
 
 
