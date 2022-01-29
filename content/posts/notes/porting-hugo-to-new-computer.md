@@ -52,6 +52,12 @@ then deploy on firebase
 ```
 firebase deploy
 ```
+### part iv
+create new post
+```
+hugo new posts/my-first-post.md
+```
+
 
 
 
