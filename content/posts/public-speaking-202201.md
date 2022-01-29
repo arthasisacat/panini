@@ -19,21 +19,27 @@ do's & don'ts
 from: https://www.youtube.com/watch?v=i5mYphUoOCs
 
 1 - don't ramble and get long winded;
+
 do organized & concise
 
 2 - Don't look with your eyes in wrong places (floor, ceiling)
+
 do direct eye contact - one thought one look
 
 3 - don't clutter up all your notes with too many details
+
 do simplied notes 
 
 4 - complex slides (animations/texts)
+
 clear, simple slides
 2-3 min per slide
 
 5 - don't fidget
+
 do confident posture & gestures 
 
 6 - don't speak too soft & fillers
+
 do confident, loud voice with *pauses*
 
